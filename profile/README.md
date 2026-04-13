@@ -22,7 +22,7 @@ Our work blends creativity, strategy, and technical execution to deliver website
 
 These tools help us deliver high‑quality sites efficiently while maintaining a consistent technical foundation across projects.
 
-👉 [CornerPost Internal Documentation](https://github.com/corner-post-marketing/internal-documentation/README.md)
+👉 [CornerPost Internal Documentation](https://github.com/corner-post-marketing/internal-documentation)
 
 ---
 
